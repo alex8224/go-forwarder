@@ -7,4 +7,8 @@ go-forwarder
 ========
 ./go-fowarder listen addr:port -socks5 remoteaddr:port
 
+如何在在PC上搭建透明代理
+======================
+https://alex8224.github.io/2018/05/30/build-tproxy/
+
 
